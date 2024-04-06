@@ -1,4 +1,4 @@
-package pulma.base;
+package pulma.tools;
 
 import java.util.Scanner;
 
